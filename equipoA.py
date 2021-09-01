@@ -2,6 +2,6 @@
 
 InfoCompra= input("Digite que va comprar: ")
 CantCompra= int(input("Digite la cantidad a comprar: "))
-MedCompra= int(input("Por que medio compra?: "))
+MedCompra= input("Por que medio compra?: ")
 
 
