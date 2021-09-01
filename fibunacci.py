@@ -6,6 +6,7 @@ for x in range(numero2):
     print(x)
 
 print("hola1")
-print("hola2")
-print("hola3")
 
+print("hola2")
+
+print("hola3")
